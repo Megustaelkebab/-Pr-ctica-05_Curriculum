@@ -36,25 +36,25 @@ sidebar:
     languages:
       title: Languages
       info:
-        - idiom: English
-          level: Native
+        - idiom: Español
+          level: Nativo
 
-        - idiom: French
-          level: Professional
+        - idiom: Valenciano
+          level: Nativo
 
-        - idiom: Spanish
+        - idiom: Ingles
           level: Professional
 
     interests:
       title: Interests
       info:
-        - item: Climbing
+        - item: Videojuegos
           link:
 
-        - item: Snowboarding
+        - item: Mangas
           link:
 
-        - item: Cooking
+        - item: Deportes
           link:
 
 career-profile:
