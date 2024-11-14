@@ -31,7 +31,7 @@ sidebar:
     mastodon:  # Please include your full Mastodon link here.
     hackerrank: # Please provide your HackerRank username.
     leetcode: # Please provide your LeetCode username.
-    pdf: # Add a PDF link here if you want to include a PDF custom version in your resume.
+    pdf: https://docs.google.com/document/d/1FMhNL8SkCjO1c1lITJd0L_mVyRgRmmslLG6h9crv5qw/edit?usp=sharing # Add a PDF link here if you want to include a PDF custom version in your resume.
 
     languages:
       title: Languages
